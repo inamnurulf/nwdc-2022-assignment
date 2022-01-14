@@ -12,3 +12,54 @@
     width: 300px;
     border-top: 2px solid #D3DEDC;
 }
+#kontak{
+    background-color: #cbe1ff;
+    padding: 1rem 0 2rem;
+}
+#kontak p{
+    margin: 0;
+    background-color: white;
+}
+.sosmed{
+    padding: 5px 10px;
+    margin: 3px 0px;
+}
+.sosmed:link{
+    display: inline-block;
+    background-color: #cbe1ff;
+}
+.sosmed:hover{
+    background-color: white;
+}
+.sosmed:active{
+    background-color:lightgray;
+}
+.logo{
+    width: 30px;
+}
+#kontak a{
+    text-decoration: none;
+    display: inline-block;
+    text-align: left;
+    color: black;
+}
+#kontak p{
+    display: inline-block;
+    text-align: left;
+    background-color: inherit;
+}
+.gmail{
+    width: 358px;
+}
+.linkedin{
+    width: 246px;
+}
+.github{
+    width: 132.5px;
+}
+.line{
+    width: 130px;
+}
+.instagram{
+    width: 173px;
+}
