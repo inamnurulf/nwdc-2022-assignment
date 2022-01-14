@@ -8,19 +8,7 @@
     background-color: #D3DEDC;
   
 }
-.about hr{
-    width: 300px;
-    border-top: 2px solid #D3DEDC;
-}
-.motivasi hr{
-    width: 300px;
-    border-top: 2px solid #D3DEDC;
-}
-.ekspetasi hr{
-    width: 300px;
-    border-top: 2px solid #D3DEDC;
-}
-.tech hr{
+.col-sm-12 hr{
     width: 300px;
     border-top: 2px solid #D3DEDC;
 }
