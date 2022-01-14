@@ -1,4 +1,4 @@
-.jumbotron img{
+.img-circle{
     width: 150px;
     height: 200px;
     border: 3px solid #92A9BD ;
@@ -12,6 +12,9 @@
     width: 300px;
     border-top: 2px solid #D3DEDC;
 }
+.col-sm-3 {
+    width: 400px;
+}
 #kontak{
     background-color: #cbe1ff;
     padding: 1rem 0 2rem;
@@ -22,7 +25,7 @@
 }
 .sosmed{
     padding: 5px 10px;
-    margin: 3px 0px;
+    margin: 5px 0px;
 }
 .sosmed:link{
     display: inline-block;
@@ -35,7 +38,7 @@
     background-color:lightgray;
 }
 .logo{
-    width: 30px;
+    width: 50px;
 }
 #kontak a{
     text-decoration: none;
@@ -49,17 +52,17 @@
     background-color: inherit;
 }
 .gmail{
-    width: 358px;
+    width: 400px;
 }
 .linkedin{
-    width: 246px;
+    width: 400px;
 }
 .github{
-    width: 132.5px;
+    width: 400px;
 }
 .line{
-    width: 130px;
+    width: 400px;
 }
 .instagram{
-    width: 173px;
+    width: 400px;
 }
